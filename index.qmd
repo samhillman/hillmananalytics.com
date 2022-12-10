@@ -1,0 +1,20 @@
+---
+title: "Hillman Analytics"
+format:
+  html: 
+    theme: simplex
+    fontsize: 1.1em
+    linestretch: 1.7
+---
+
+Hillman Analytics Limited is a specialist data analysis and data science consultancy. We specialise in working with large, complex datasets related to healthcare, drug development, and medical services.
+
+Specialist skills include:
+
+-   R development
+-   Analysis pipeline development
+-   SQL and Python work
+-   Working with large, complex datasets (larger than memory) including medical and insurance records
+
+Hillman Analytics Limited - Registered Office: 62/5 Rankin Drive, Edinburgh, EH9 3DJ.
+Registered Number: SC740882. VAT number: 422840711. Registered in Scotland.
